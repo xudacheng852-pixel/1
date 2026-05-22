@@ -1,0 +1,6 @@
+{
+  "name": "IELTS Examiner Emily",
+  "description": "Interactive full-process IELTS speaking examiner Emily. Conducts mock exams, provides real-time speech transcription, displays error corrections in red, and scores your band in 1-9 points with targeted suggestions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
